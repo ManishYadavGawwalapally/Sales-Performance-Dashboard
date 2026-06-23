@@ -1,4 +1,4 @@
-# Sales Performance Dashboard — KiranaPlus (Indian FMCG)
+# Sales Performance Dashboard — (Indian FMCG)
 
 **Replace the VP's Monday PowerPoint with one screen.**
 
